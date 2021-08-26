@@ -1,0 +1,48 @@
+.carousel-item{
+	height: 600px;
+}
+
+.carousel-item img{
+	height: 600px;
+}
+
+.circle {
+	background-image: url("CV.jpeg");
+	height: 500px;
+	width: 100%;
+	border-radius: 50%;
+}
+.dotE {
+  height: 12px;
+  width: 12px;
+  border-radius: 50%;
+  display: inline-block;
+  border: 1px solid black;
+ 
+}
+.dotB {
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+  display: inline-block;
+  border: 1px solid black;
+ 
+}
+.dotF {
+  height: 15px;
+  width: 15px;
+  border-radius: 50%;
+  display: inline-block;
+  background: 1px solid;
+  background-color: #000000FF;
+
+}
+
+.round {
+	width: 270px;
+	height: 290px;
+	box-sizing: border-box;
+    border-radius: 50%; /* Радиус скругления */
+    border: 1px solid #E7F2F2; /* Параметры рамки */
+    box-shadow: 0 0 7px #666; /* Параметры тени */
+   }
